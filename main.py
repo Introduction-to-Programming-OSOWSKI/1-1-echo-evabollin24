@@ -1,2 +1,2 @@
-def echo():
-    return("hello" * 5)
+def echo(a, b):
+    return(a * b)
